@@ -1,7 +1,7 @@
 {
     "name": "defi-toolbox",
     "version": "0.0.0",
-    "description": "Small TypeScript library allowing easy local deployment of some common defi components",
+    "description": "Small TypeScript library allowing easy local deployment of some common defi components.",
     "keywords": [],
     "files": [
         "dist"
